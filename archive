@@ -1,0 +1,11 @@
+fortressapp-pro/
+├── README.md
+├── .github/
+│   └── workflows/deploy.yml
+├── public/
+├── scripts/
+├── games/
+├── assets/
+├── legacy/            ← Archived .com/Vercel builds
+├── package.json
+└── deploy.log         ← Generated on next CI pass
