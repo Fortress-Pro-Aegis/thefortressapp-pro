@@ -41,5 +41,4 @@
 ## 🧠 Credits
 
 - Author: [@aqsa326](https://github.com/aqsa326)  
-- Public Mail: fortressofficials@zohomail.com  
-- Private Ops: aqsaa6146@gmail.com
+- Customer Support: fortressofficials@zohomail.com
