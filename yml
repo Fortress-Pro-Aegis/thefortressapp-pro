@@ -1,4 +1,8 @@
 on:
   push:
     branches:
-      - pro
+      - thefortressapp.pro
+
+jobs:
+  deploy:
+    ...
