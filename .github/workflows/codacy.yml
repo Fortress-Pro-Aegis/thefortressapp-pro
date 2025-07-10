@@ -15,10 +15,10 @@ name: Codacy Security Scan
 
 on:
   push:
-    branches: [ "thefortressapp.pro" ]
+    branches: [ "aqsa326/fortressapp-pro" ]
   pull_request:
     # The branches below must be a subset of the branches above
-    branches: [ "thefortressapp.pro" ]
+    branches: [ "aqsa326/fortressapp-pro" ]
   schedule:
     - cron: '37 12 * * 3'
 
