@@ -6,6 +6,6 @@ fortressapp-pro/
 ├── scripts/
 ├── games/
 ├── assets/
-├── legacy/            ← Archived .com/Vercel builds
+├── legacy/            ← Archived .com/Vercel builds/EC2/Netlify/S3/AWS
 ├── package.json
 └── deploy.log         ← Generated on next CI pass
